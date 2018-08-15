@@ -1,0 +1,23 @@
+C:\Users\帅气的彭杰科\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\帅气的彭杰科\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\帅气的彭杰科\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\帅气的彭杰科\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojResolveAssemblyReference.cache
+C:\Users\帅气的彭杰科\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\帅气的彭杰科\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\帅气的彭杰科\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.Cache
+C:\Users\帅气的彭杰科\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\帅气的彭杰科\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\帅气的彭杰科\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\pjkcom\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojResolveAssemblyReference.cache
+C:\Users\pjkcom\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\pjkcom\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\pjkcom\Desktop\彭杰科demo\peng demo\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\pjkcom\Desktop\彭杰科demo\peng demo\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\pjkcom\Desktop\彭杰科demo\peng demo\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\pjkcom\Desktop\彭杰科demo\peng demo\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojResolveAssemblyReference.cache
+C:\Users\pjkcom\Desktop\彭杰科demo\peng demo\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\pjkcom\Desktop\彭杰科demo\peng demo\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\pjkcom\Desktop\彭杰科demo\peng demo\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.Cache
+C:\Users\pjkcom\Desktop\彭杰科demo\peng demo\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\pjkcom\Desktop\彭杰科demo\peng demo\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\pjkcom\Desktop\彭杰科demo\peng demo\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
