@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\俄罗斯方块.Form1.resources
+obj\Debug\俄罗斯方块.Properties.Resources.resources
+obj\Debug\俄罗斯方块.csproj.GenerateResource.Cache
+bin\Debug\俄罗斯方块.exe
+bin\Debug\俄罗斯方块.pdb
+obj\Debug\俄罗斯方块.exe
+obj\Debug\俄罗斯方块.pdb
