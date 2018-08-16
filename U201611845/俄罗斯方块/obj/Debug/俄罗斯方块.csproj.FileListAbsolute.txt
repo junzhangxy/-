@@ -1,0 +1,17 @@
+C:\Documents and Settings\Administrator\桌面\第二篇  控制类游戏\俄罗斯方块\obj\Debug\俄罗斯方块.exe
+C:\Documents and Settings\Administrator\桌面\第二篇  控制类游戏\俄罗斯方块\obj\Debug\俄罗斯方块.pdb
+C:\Documents and Settings\Administrator\桌面\第二篇  控制类游戏\俄罗斯方块\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\第二篇  控制类游戏\俄罗斯方块\obj\Debug\俄罗斯方块.Form1.resources
+C:\Documents and Settings\Administrator\桌面\第二篇  控制类游戏\俄罗斯方块\obj\Debug\俄罗斯方块.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\第二篇  控制类游戏\俄罗斯方块\obj\Debug\俄罗斯方块.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\第二篇  控制类游戏\俄罗斯方块\bin\Debug\俄罗斯方块.exe
+C:\Documents and Settings\Administrator\桌面\第二篇  控制类游戏\俄罗斯方块\bin\Debug\俄罗斯方块.pdb
+C:\Users\ZS\Desktop\U201611845\俄罗斯方块\bin\Debug\俄罗斯方块.exe
+C:\Users\ZS\Desktop\U201611845\俄罗斯方块\bin\Debug\俄罗斯方块.pdb
+C:\Users\ZS\Desktop\U201611845\俄罗斯方块\obj\Debug\俄罗斯方块.csprojAssemblyReference.cache
+C:\Users\ZS\Desktop\U201611845\俄罗斯方块\obj\Debug\俄罗斯方块.Form1.resources
+C:\Users\ZS\Desktop\U201611845\俄罗斯方块\obj\Debug\俄罗斯方块.Properties.Resources.resources
+C:\Users\ZS\Desktop\U201611845\俄罗斯方块\obj\Debug\俄罗斯方块.csproj.GenerateResource.cache
+C:\Users\ZS\Desktop\U201611845\俄罗斯方块\obj\Debug\俄罗斯方块.csproj.CoreCompileInputs.cache
+C:\Users\ZS\Desktop\U201611845\俄罗斯方块\obj\Debug\俄罗斯方块.exe
+C:\Users\ZS\Desktop\U201611845\俄罗斯方块\obj\Debug\俄罗斯方块.pdb
