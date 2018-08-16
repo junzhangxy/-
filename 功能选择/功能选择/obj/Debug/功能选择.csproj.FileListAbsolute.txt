@@ -1,0 +1,13 @@
+C:\Users\张俊\source\repos\功能选择\功能选择\bin\Debug\功能选择.exe.config
+C:\Users\张俊\source\repos\功能选择\功能选择\bin\Debug\功能选择.exe
+C:\Users\张俊\source\repos\功能选择\功能选择\bin\Debug\功能选择.pdb
+C:\Users\张俊\source\repos\功能选择\功能选择\obj\Debug\功能选择.csprojAssemblyReference.cache
+C:\Users\张俊\source\repos\功能选择\功能选择\obj\Debug\功能选择.Form1.resources
+C:\Users\张俊\source\repos\功能选择\功能选择\obj\Debug\功能选择.Properties.Resources.resources
+C:\Users\张俊\source\repos\功能选择\功能选择\obj\Debug\功能选择.csproj.GenerateResource.cache
+C:\Users\张俊\source\repos\功能选择\功能选择\obj\Debug\功能选择.csproj.CoreCompileInputs.cache
+C:\Users\张俊\source\repos\功能选择\功能选择\obj\Debug\功能选择.exe
+C:\Users\张俊\source\repos\功能选择\功能选择\obj\Debug\功能选择.pdb
+C:\Users\张俊\source\repos\功能选择\功能选择\obj\Debug\功能选择.Form2.resources
+C:\Users\张俊\source\repos\功能选择\功能选择\obj\Debug\功能选择.Form3.resources
+C:\Users\张俊\source\repos\功能选择\功能选择\obj\Debug\功能选择.Form4.resources
